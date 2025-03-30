@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+Eregister_file
+Z0 w1742939977
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/Rawan Mohamed/Desktop/CA Labs/Lab 1
+Z5 8C:/Users/Rawan Mohamed/Desktop/CA Labs/Lab 1/Register_File.vhd
+Z6 FC:/Users/Rawan Mohamed/Desktop/CA Labs/Lab 1/Register_File.vhd
+l0
+L5
+VN?8CM1fRn;9Jn;3A9F@S20
+!s100 knK7kVO:Y>E@_MXJD`DeJ1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1742939982
+!i10b 1
+Z9 !s108 1742939982.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Rawan Mohamed/Desktop/CA Labs/Lab 1/Register_File.vhd|
+Z11 !s107 C:/Users/Rawan Mohamed/Desktop/CA Labs/Lab 1/Register_File.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1 CvgOpt 0
+Areg_file_behaviour
+R1
+R2
+R3
+DEx4 work 13 register_file 0 22 N?8CM1fRn;9Jn;3A9F@S20
+l19
+L15
+VG]@GlVZLY58N<<MRBzbCS1
+!s100 6>J5>9S>LKAE@lM=ZdU2J3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eregister_file_testbench
+Z14 w1743345119
+R1
+R2
+R3
+R4
+Z15 8C:\Users\Rawan Mohamed\Desktop\CA Labs\Lab 1\Register_File_TB.vhd
+Z16 FC:\Users\Rawan Mohamed\Desktop\CA Labs\Lab 1\Register_File_TB.vhd
+l0
+L5
+V_kjGn87IO=fg^nR=^nRme2
+!s100 ^2_i:8zPIFb73O^iUi4250
+R7
+32
+Z17 !s110 1743345126
+!i10b 1
+Z18 !s108 1743345125.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Rawan Mohamed\Desktop\CA Labs\Lab 1\Register_File_TB.vhd|
+Z20 !s107 C:\Users\Rawan Mohamed\Desktop\CA Labs\Lab 1\Register_File_TB.vhd|
+!i113 1
+R12
+R13
+Areg_file_tb
+R1
+R2
+R3
+Z21 DEx4 work 23 register_file_testbench 0 22 _kjGn87IO=fg^nR=^nRme2
+l28
+L8
+VU`6lT^HUINN[90[O9lmI?1
+!s100 zlHE3?^?S4XHeFme;fGO@2
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
